@@ -91,7 +91,7 @@ int main()
     bankAccount1.setAccountNumber(accountNumber);
     do
     {
-    cout<<"********* Puskan Bank *********"<<endl;
+    cout<<"********* Welcome to AR Bank *********"<<endl;
     cout<<"Enter your choice."<<endl;
     cout<<"1: Show Balance"<<endl;
     cout<<"2: Deposit money"<<endl;
